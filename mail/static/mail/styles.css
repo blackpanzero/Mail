@@ -1,0 +1,50 @@
+textarea {
+    min-height: 400px;
+}
+.others-msg {
+    margin-right:7em;
+    margin-left: 1em;
+    padding: 0.5em 0.5em 0.5em 1em;
+    border-radius: 5px;
+    border-width: 0.5px;
+    border-style: solid;
+    cursor: pointer;
+
+  
+}
+.others-msg:hover {
+    
+    border-color: blue;
+  
+
+  
+}
+
+.color{
+
+    padding: 0.5em 0.5em 0.5em 1em;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 0.5px;
+    border-style: solid;
+    background-color: #C2DBFB;
+}
+.color:hover{
+    background-color: aqua;
+
+}
+a:hover{
+    text-decoration: none!important;
+}
+.unread{
+    background-color: white;
+
+}
+.read{
+    background-color: gray;
+}
+
+.reply{
+   
+    cursor: pointer;
+}
